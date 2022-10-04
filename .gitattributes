@@ -1,1 +1,2 @@
 fotokota.jpg filter=lfs diff=lfs merge=lfs -text
+coockie.jpg filter=lfs diff=lfs merge=lfs -text
